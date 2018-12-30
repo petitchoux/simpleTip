@@ -26,10 +26,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
-
-![Video Walkthough](simpleTipwalkthough.gif "Video Walkthough")
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/pJVGjP7"><a href="//imgur.com/pJVGjP7"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Video Walkthrough](simpleTipwalkthrough.gif)
+[Alternative link](https://imgur.com/a/pJVGjP7)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
